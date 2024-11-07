@@ -1,0 +1,2 @@
+# GorillaSSCamera
+Take screenshots ingame!
